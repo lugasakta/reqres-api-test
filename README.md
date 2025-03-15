@@ -1,2 +1,11 @@
 # reqres-api-test
-A repository that contains example of Reqres API Automation using Python language &amp; Gherkin style
+A repository containing examples of Reqres API Automation using Python language and Gherkin style.
+
+# Environment Setup
+1. Python
+2. Install Robot Framework ```pip install robotframework```
+3. Install Request Library ```pip install robotframework-requests```
+4. Install JSON Library ```pip install robotframework-jsonlibrary```
+
+# How to Run
+```robot tests/reqres_api_test.robot```
