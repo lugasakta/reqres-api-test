@@ -9,3 +9,6 @@ A repository containing examples of Reqres API Automation using Python language 
 
 # How to Run
 ```robot tests/reqres_api_test.robot```
+
+# Test Result
+<img width="1124" alt="image" src="https://github.com/user-attachments/assets/244c58af-fb27-41e8-8d7b-2f496095bead" />
